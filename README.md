@@ -1,5 +1,5 @@
 # School-Projects
-Various Random Projects from School
+Github repo containing projects from coursework
 
 ---Goldbach---
 Quick project to test out different ways to find solutions to Goldbach's conjecture.
